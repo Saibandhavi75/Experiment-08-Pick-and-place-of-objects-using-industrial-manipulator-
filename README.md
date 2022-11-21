@@ -105,6 +105,7 @@ and click on the connect icon
 ### Robo Action:
 ![output](https://github.com/Saibandhavi75/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/r14.jpeg?raw=true)
 ![output](https://github.com/Saibandhavi75/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/r15.jpeg?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/r16.jpeg?raw=true)
 
 
 
